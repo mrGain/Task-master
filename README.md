@@ -39,7 +39,7 @@ Go to the project directory
 ```bash
   $ pip install -r requirements.txt
 ```
-  - *Note : Before installing all the requirements make sure you are on the directoty where requirements.txt is located .*
+  - *Note : Before installing all the requirements make sure you are on the directory where requirements.txt is located .*
 
 
 
